@@ -14,7 +14,7 @@ This repository serves as my Digital Literacy Portfolio, created for the CSE0001
 1. **Task 1: Awareness Infographic** - Visualizing the importance of digital literacy.
 2. **Task 2: Digital Portfolio** - Setting up professional profiles on LinkedIn and GitHub.
 3. **Task 3: Platforms** - Completing a coding challenge and creating a batch-wide awareness quiz.
-   * [Link to my Google Form Quiz](Insert Your Link Here)
+   * [Link to my Google Form Quiz]- https://forms.gle/QrpXZNYuNZAdGexy8
 4. **Task 4: Communication** - Mastering professional email drafts and social media safety.
 5. **Task 5: Cybercrime** - Researching UPI fraud and creating a prevention guide.
 
