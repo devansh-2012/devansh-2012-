@@ -2,10 +2,13 @@
 **Student Digital Ambassador Project**
 
 ## Student Details
-* **Name:** Devansh Choudhary
-* **Registration No:** 25BCE10575
-* **Branch:** B.Tech CSE(Core)
-* **Year:** 1st Year
+| Field | Information |
+| :--- | :--- |
+| **Name** | Devansh Choudhary |
+| **Registration No.** | 25BCE10575 |
+| **Degree** | First Year B.Tech - CSE(Core)  |
+| **University** | VIT Bhopal University  |
+
 
 ## Project Overview
 This repository serves as my Digital Literacy Portfolio, created for the CSE0001 course at VIT Bhopal. As a Student Digital Ambassador, I have completed five tasks focusing on visual communication, professional networking, collaborative coding, email etiquette, and cyber awareness.
